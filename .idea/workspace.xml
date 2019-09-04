@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8a74ab3-47ae-4f0f-8006-62e2290c00ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c8a74ab3-47ae-4f0f-8006-62e2290c00ca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +62,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="562" />
-    <option name="y" value="86" />
+    <option name="x" value="471" />
+    <option name="y" value="55" />
     <option name="width" value="1116" />
     <option name="height" value="942" />
   </component>
@@ -91,6 +89,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -121,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567565003010</updated>
-      <workItem from="1567565006856" duration="761000" />
+      <workItem from="1567565006856" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="di第一次从idea上提交">
       <created>1567565277047</created>
@@ -130,11 +129,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567565277047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="di第一次从idea上提交">
+      <created>1567565784551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567565784551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="761000" />
+    <option name="totallyTimeSpent" value="1045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="562" y="86" width="1116" height="942" extended-state="0" />

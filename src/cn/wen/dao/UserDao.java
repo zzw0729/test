@@ -7,6 +7,6 @@ package cn.wen.dao;
 
 public class UserDao {
     public static void main(String[] args) {
-        System.out.println("ggg");
+        System.out.println("弟弟");
     }
 }
